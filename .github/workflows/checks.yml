@@ -1,0 +1,19 @@
+name: Comprobar ReflexIA
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node scripts/check-assets.mjs
+      - run: node --test tests/*.test.mjs
+      - run: node scripts/build.mjs
+      - uses: actions/upload-artifact@v4
+        with:
+          name: reflexia-frontend
+          path: dist/

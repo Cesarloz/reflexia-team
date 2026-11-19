@@ -1,0 +1,47 @@
+[
+  {
+    "name": "ataque 1.jpg",
+    "bytes": 881890,
+    "sha256": "084ee9bda228291eb8dbf0e587ed92ce54dd96f1f755f80a62a5e733572b972b"
+  },
+  {
+    "name": "ataque 2.jpg",
+    "bytes": 966306,
+    "sha256": "ac9a318a626aa63c04b5610c156d82fb4e78024baa8dded391afe8e2c7f49ef1"
+  },
+  {
+    "name": "ataque 3.jpg",
+    "bytes": 923236,
+    "sha256": "8984649f847257cfeb5b55137212c4e61fd8c0e38953dc6baa7c405ac2962343"
+  },
+  {
+    "name": "ataque 4.jpg",
+    "bytes": 838472,
+    "sha256": "d744d4ac87f01f1646a09a0a2ea5594556d7be898271c4ab7a0715816e5d0014"
+  },
+  {
+    "name": "carta 1.jpg",
+    "bytes": 2307493,
+    "sha256": "12b8cde7c8aa02a81d58a6192fcfac547ee88cc8d83593965a2553c400ca7ccf"
+  },
+  {
+    "name": "carta 2.jpg",
+    "bytes": 886279,
+    "sha256": "09029a673e2a4ee09c9daf053e3fbf1c6999a78d5838b1246c0fbe0638da886a"
+  },
+  {
+    "name": "carta 3.jpg",
+    "bytes": 877044,
+    "sha256": "fae8057c58e621ac8c2d7d83be708242b633473f9c29b56c27e69684f6dba610"
+  },
+  {
+    "name": "carta 4.jpg",
+    "bytes": 2716410,
+    "sha256": "dba755c02dcbcb3901b6ffe1da6d0718de815994313dbd92772bcd4f95d33cb0"
+  },
+  {
+    "name": "parte trascera .jpg",
+    "bytes": 2835540,
+    "sha256": "58d0fc8666c7a7e7c0bb9bfe5fd317a24679765fbabd9faa5f6da48d34a8f002"
+  }
+]

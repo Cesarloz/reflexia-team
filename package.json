@@ -1,0 +1,14 @@
+{
+  "name": "reflexia-team-agentes",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "ReflexIA Team Agentes: cartas, conexiones y experiencias de IA compartidas.",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node scripts/check-assets.mjs && node --test tests/*.test.mjs",
+    "build": "node scripts/build.mjs"
+  }
+}
